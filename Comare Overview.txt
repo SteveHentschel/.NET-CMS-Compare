@@ -1,0 +1,4 @@
+CMS Comparison Overview:  Umbraco, Orchard, MojoPortal, and Kooboo
+
+12/01/2014
+Background:  For my second pet project, I wanted to build a more complex website (endofthislife.org), and I figured it would be better for future maintainability to use a Content Management System.
