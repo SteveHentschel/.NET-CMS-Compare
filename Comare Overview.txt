@@ -1,4 +1,48 @@
-CMS Comparison Overview:  Umbraco, Orchard, MojoPortal, and Kooboo
+.NET CMS Comparison Overview:  Umbraco, Orchard, MojoPortal, and Kooboo
 
 12/01/2014
-Background:  For my second pet project, I wanted to build a more complex website (endofthislife.org), and I figured it would be better for future maintainability to use a Content Management System.
+Background:  For my second pet project, I wanted to build a more complex website (endofthislife.org), and I 
+figured it would be better for future maintainability to use a Content Management System.
+My target is to use Visual Studio 2013, MVC5, Razor, MSSQL 2012/Express all in the .NET 4.5 framework.
+Basic functionality required would be blog/forum and some media support for user galleries.
+
+In this blurb (I know blog would be better, but until I make one ...) I will just go over some of my
+initial findings via Google research on the four packages I chose to evaluate.
+
+Platform
+Umbraco and MojoPortal are based on WebForms, whereas Kooboo and Orchard were written with MVC.  
+I would prefer to use an MVC-based CMS, but in the end it doesn't matter so much as they all 
+support MVC-based web applications.
+
+Usage
+According to w3techs.com, Umbraco is the most popular CMS of the four, followed by Orchard.  MojoPortal
+is third in usage (pretty close to Orchard), and then Kooboo brings up the rear.
+
+Pricing
+All four CMS options are free open source software.  Orchard and Kooboo have no hidden fees, whereas
+Umbraco and MojoPortal have some higher end features that are paid options. Umbraco also charges EU 20
+per month for viewing of their tutorial videos (umbraco.tv) and offers different levels of paid support.
+
+Company/Website Impressions
+Umbraco is based in Denmark with a team of 9 employees and has a very nice/modern website.
+Orchard Project doesn't seem to be based physically anywhere, but due to it's association with MicroSoft, 
+I'd put it in Redmond, Washington with a team of 6-10 international development/board members.  The
+Orchard website is simple, but clean, functional and looks nice.
+MojoPortal appears to be a one man show with Joe Audette running things from North Carolina.  Of the 
+four choices, the MP site looks the most dated and cluttered with advertisements.
+Kooboo also has a very simple, but clean and functional (like Orchard).  Kooboo was developed in Xiamen, 
+China by a team of 6-8, but they also have satellite offices in Los Angeles and the Netherlands.
+
+Community/Support
+Umbraco has the most active support forum with tons of recent posts and contributors (our.umbraco.org).
+Umbraco also has an active release history and a good future roadmap.
+Orchard also has an active/current forum with many contributors; also a good release history and roadmap.
+MojoPortal community is ok, but not quite as active as Umbraco and Orchard.  Activity seems to have 
+subsided around 2012 and the development seems stuck at .NET 4.0.
+Kooboo community support seems similar to MP with not so many current postings.  Kooboo seems mostly 
+tailored to supporting multilingual websites.
+
+That's it for the initial light research.  Next, I will install each CMS and create a quick test site
+and report the results in separate blurbs.  After that I will update this thread with my final choice(s).
+
+--slh
