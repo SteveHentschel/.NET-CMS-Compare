@@ -1,0 +1,32 @@
+MojoPortal Install and Initial Site Creation
+12/2/2014  Steve Hentschel
+
+Installation
+Since I am working with VS2013, I downloaded the source code via CodePlex and unzipped to my project area.
+Then open the mojoportal solution file (I got Version 2.4.0.4) and build/run the mojoPortal.Web project.
+Kind of bulky with 25 projects and would not run out of the box on my system (Win7, .NET 4.5.1).
+Through the runtime errors, tracked it down to the Webstore.UI project.  Deleted that and the program/site
+ran fine.  Probably should delete all the other projects not used for efficency.
+
+Playing with the Site
+The greenish-yellow default sample site appears in your designated browser and you can look around.  
+Login as "admin@admin.com" with a password of 'admin' and you can modify the site or turn it into your own.
+Most aspects of the site can be managed from the "Administration" menu.  Much you can do here and it makes
+this CMS feel very much like a template-based site creation process (but with much more control)
+New pages are easy to create and edit, with 8 premade content features that can be set in a 3-pane
+layout.  13 premade skins come with the original install, and MP suggests using Artisteer for new skin 
+development.  It seems the relationship with Artisteer is old and not so great anymore, as the Artisteer 
+ad is gone and Artisteer does not support direct output to MojoPortal.
+
+Blog/Forum/Media
+There are blog, forum, and various media modules in the Features.UI project that can be linked to the
+Web project, but I'm not going to evaluate these until I see the other CMS installs and sample sites.
+
+First Impression
+Right now, I'm not so impressed with MojoPortal as it feels and looks a bit dated/klunky to me.  Just my 
+personal opinion mind you, but when designing my next pet project, my opinion is all that really matters.
+MojoPortal reminds me of one of those DIY website creators (albeit way more advanced) and has the 
+plug-and-play feel that makes me think it is more removed from MVC development than I want to be.
+
+I may come back for more MP evaluation and try out the forum/blog if I'm not more impressed by one
+of the other 3 CMS programs coming up (Kooboo, Orchard, or Umbraco).

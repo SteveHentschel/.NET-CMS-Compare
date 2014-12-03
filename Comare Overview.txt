@@ -1,4 +1,4 @@
-.NET CMS Comparison Overview:  Umbraco, Orchard, MojoPortal, and Kooboo
+.NET CMS Comparison Overview:  Umbraco, Orchard, MojoPortal, and Kooboo  (by Steve Hentschel)
 
 12/01/2014
 Background:  For my second pet project, I wanted to build a more complex website (endofthislife.org), and I 
@@ -29,7 +29,8 @@ Orchard Project doesn't seem to be based physically anywhere, but due to it's as
 I'd put it in Redmond, Washington with a team of 6-10 international development/board members.  The
 Orchard website is simple, but clean, functional and looks nice.
 MojoPortal appears to be a one man show with Joe Audette running things from North Carolina.  Of the 
-four choices, the MP site looks the most dated and cluttered with advertisements.
+four choices, the MP site looks the most dated and cluttered with advertisements, but you can't
+begrudge a guy for trying to make a living.
 Kooboo also has a very simple, but clean and functional (like Orchard).  Kooboo was developed in Xiamen, 
 China by a team of 6-8, but they also have satellite offices in Los Angeles and the Netherlands.
 
