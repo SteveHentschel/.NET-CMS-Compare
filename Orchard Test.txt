@@ -1,0 +1,31 @@
+Orchard Project Install and Initial Site Creation
+12/3/2014  Steve Hentschel
+
+Installation
+The Orchard installation process was basically the same as Mojo; download the Orchard Source from 
+orchard.codeplex.com (Version 1.8.1 in my case), and then unzip to Projects and open the solution file
+with Visual Studio 2013.  The solution takes quite a while to build the first time, as it loads pretty 
+heavy with a whopping 75 projects.  After setting up the database and connecting, Orchard also loads the 
+DB right away with a ton of tables for site management; nothing small in the Orchard.  Was nice that the
+solution loaded and ran with no problems straight out of the box.
+
+Playing with the Site
+The test site comes up a bit slowly the first time, but it is very sharp/clean looking.  Sign in as 'admin' 
+and set a new password, and you are ready to start playing with your site.  Click the 'Dashboard' link at 
+the bottom of the screen and you are presented with a very logical admin menu in the left column.  I played 
+around a bit, created a new page and added images to it with no problems.  Orchard comes with a gallery
+of 103 themes from various authors/sources, and also allows you to import your own if you like.  I appreciate
+the fact that Orchard allows Bootstrap which comes standard in MVC5 projects now.
+
+Blog/Forum/Media
+There is a blog tab in the Admin menu, and adding a blog with a new post can be done in minutes.  Very nice.
+It looks like there is only one premade forum available for Orchard (NGM), but I will evaluate that later.
+Same for media.
+
+First Impression
+At first glance, I like Orchard Project CMS very much.  Being somewhat familiar with MVC, it just feels
+more natural to me than MojoPortal, and I like the clean, structured, logical flow of the admin panel and
+how things are laid out.  Just feels more natural to me, and could be the one.  Will update more after 
+checking out Kooboo and Umbraco.
+
+-- slh

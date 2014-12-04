@@ -1,0 +1,32 @@
+Kooboo Install and Initial Site Creation
+12/4/2014  Steve Hentschel
+
+Installation
+Again, Kooboo installation is pretty much the same as Orchard and Mojo; just download the Kooboo source
+(I got Version 4.3 dated Feb 2014) from CodePlex, extract to your project file, just open the solution 
+file from VS2013.  The big difference with Kooboo is it comes much lighter and leaner with only one 
+project to build.  Build and run happened very quickly with no problems the first time, nice.
+
+Playing with the Site
+The SampleSite comes up quickly when run and looks very clean and nice, the basic MS MVC web app template.
+Hit "Admin Login" and sign in with admin/admin to get to the Site Manager screen.  Here's where things 
+start to vary from Orchard, as the Kooboo admin interface is not quite as clean/intuitive as Orchards. 
+The Site Cluster screen shows an excellent world wide template support, but it takes a while to figure 
+out how/where to press buttons and controls to navigate and create.  I did manage to make a new page with
+images, but not quite as quickly/easily as with Orchard.  Changing themes was not transparent either; it 
+looks like you have to download/import new themes, and I didn't see any extra skins or theme management
+tool in the panel (although I didn't look too long either).
+
+Blog/Forum/Media
+While it looks like Kooboo is leaner than Orchard, I believe it is every bit as powerful and versatile,
+but just not so easy or intuitive to find the functionality.  I also didn't get a good feeling for the 
+blog/forum modules that are available (or not).  Again, will have to do more research in that area.
+
+First Impression
+At this point, I would put Kooboo as a close second behind Orchard.  I like that it is more lean and 
+compact, but I guess I can cut Orchard down to size when I know what project I do/don't need.  Kooboo 
+feels like the right choice for multingual international web developers, but I'm not heading that way.
+After the Umbraco test I will cut the choices to two and then get into a more detailed evaluation, 
+especially of the modules/plug-ins I need (like forum, blog, and media players).
+
+-- slh
