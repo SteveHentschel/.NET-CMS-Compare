@@ -1,0 +1,32 @@
+Umbraco CMS Install and Initial Site Creation
+12/5/2014  Steve Hentschel
+
+Installation
+Umbraco CMS is the only package where you don't download the source code.  From Visual Studio, just create
+a new EMPTY web project, and load the Umbraco CMS package (I got Version 7.2.0) via the NuGet package 
+manager.  One nice thing about Umbraco is that it loads very light with only one project.  Some documentation
+says you should change the defaultRenderingEngine parameter from Webforms to MVC, but both times loading 
+from VS (MVC4 or MVC5 package) this was already set.  Just build and run and this opened the starter site
+setup screen right out of the box, nice.
+
+Playing with the Site
+Sample site setup consists of choosing your DB connection and picking a starter kit, if you like.  I opted
+for the Fanoe starter kit, just to see a site come up.  It was clean and simple, nice to see. The admin 
+screen and database setup is very similar to Orchard, very friendly and intuitive.  Umbraco prides itself on
+being very open and customizable (opposite of plug and play).  I created a new page quickly, but was not 
+so happy about how to add/arrange images on it; I guess this was the type of template I was using though.  
+All new pages and page mods are stored in the SQL database (also like Orchard).  Also doesn't matter which 
+type of new project you create (MVC4 orMVC5), after you load Umbraco CMS, it will only use the MVC4 reference.
+
+Blog/Forum/Media
+There was no built-in blog (like Orchard), but there are a few blog packages out there (uBlogsy and 
+Articulate), which I'll have to investigate further.  The Fanoe starter kit comes with a basic blog, but I 
+didn't check which of those (if any) it was based on.  There are also a few forum packages out there 
+(nForum and MVC Forum), but I still see some question as to whether or not they work with Umbraco 7.
+
+First Impression
+Umbraco is the most widely used CMS of the 4 packages I chose to investigate and I can see why.  The admin 
+functions are somewhat intuitive, if not simple, but that is a good thing for do-it-yourselfers.  Umbraco
+definitely makes the first cut, and I'll soon delve deeper to investigate the features I'm looking for.
+
+-- slh

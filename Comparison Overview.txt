@@ -1,6 +1,6 @@
 .NET CMS Comparison Overview:  Umbraco, Orchard, MojoPortal, and Kooboo  (by Steve Hentschel)
 
-12/01/2014
+** 12/01/2014 **
 Background:  For my second pet project, I wanted to build a more complex website (endofthislife.org), and I 
 figured it would be better for future maintainability to use a Content Management System.
 My target is to use Visual Studio 2013, MVC5, Razor, MSSQL 2012/Express all in the .NET 4.5 framework.
@@ -46,4 +46,36 @@ tailored to supporting multilingual websites.
 That's it for the initial light research.  Next, I will install each CMS and create a quick test site
 and report the results in separate blurbs.  After that I will update this thread with my final choice(s).
 
---slh
+-- slh
+
+
+** 12/5/2014 **
+First cut:  After a few days of initial evaluation of the four CMS packages, I have decided to cut out 
+MojoPortal and Kooboo.  As I mentioned before, MojoPortal feels too dated and 'plug-and-playish' to me, 
+and it looks like it does not have such a great community support system.  Even the company it recommends 
+for skins (Artisteer) does not support direct output to Mojo, which shows who they are not betting on.  
+Kooboo has a great looking site manager and is based on MVC, but again, I don't get a warm fuzzy about the 
+community and module support.  Several forum threads end with Kooboo admins stating they will not create
+xx feature, but the user is welcome to develop it, and from the catalog of modules, I can see that not
+many users do that (in Kooboo at least).
+
+So, that leaves me to pursue Orchard and Umbraco.  Umbraco has the edge when it comes to sheer user base 
+and community developed modules and plug-ins.  Visual Studio has over 7 pages of Umbraco packages to 
+explore with NuGet.  Umbraco also has the most active and supportive community (our.umbraco.org).  While 
+Orchard does not have quite the same exposure or community support, it is backed by MicroSoft and I do 
+see quite a lot of activity on the Codeplex forum.  It also is written with MVC which is more interesting
+to me, but not so essential.
+
+Ultimately, it will come down to which package can supply/support the feature I want on my website and has 
+the best feel for editing and updating my site.  As I mentioned before, the main add-ons I'm looking for:
+- Forum: nice, friendly, medium powered
+- Blog: easy to create, easy to comment, good SEO
+- Media: ability to store/display movies and pics
+- DB Interaction:  will be doing some of this, hopefully with LINQ
+
+I will update the Orchard and Umbraco blurbs with my findings on these 4 points, and then finally announce
+my end choice here when that is finished.
+
+-- slh
+
+
