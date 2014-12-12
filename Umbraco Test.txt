@@ -30,3 +30,7 @@ functions are somewhat intuitive, if not simple, but that is a good thing for do
 definitely makes the first cut, and I'll soon delve deeper to investigate the features I'm looking for.
 
 -- slh
+
+
+12/11/2014 -- Blog Testing
+
