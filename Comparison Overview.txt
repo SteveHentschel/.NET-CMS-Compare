@@ -75,7 +75,14 @@ the best feel for editing and updating my site.  As I mentioned before, the main
 
 I will update the Orchard and Umbraco blurbs with my findings on these 4 points, and then finally announce
 my end choice here when that is finished.
-
 -- slh
 
 
+** 12/13/2014 **  Blog Test Results
+And after Round 1, blog testing, the winner is .......  Umbraco and Articulate.  To summarize (you can see
+details in the Umbraco and Orchard blurbs), uBlogsy for Umbraco was kind of buggy and felt kind of 
+'small time'.  Blogs built-in for Orchard was very basic feeling with no bells or whistles that I could
+find.  Articulate seemed to have the most interest and felt very nice, intuitive, and powerful, even though
+it supposedly is not a full-fledged blogging system (like WordPress).  I also found I liked the connectivity
+of Disqus.  So, Round 1 to Umbraco/Articulate blogging.  Round 2 is the forum testing.
+-- slh

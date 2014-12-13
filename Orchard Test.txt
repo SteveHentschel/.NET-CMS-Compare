@@ -39,6 +39,7 @@ when describing the package overall is 'rudimentary'.  Not many bells nor whistl
 that I could find.
 
 The commenting is self contained, which is what I thought I wanted in a blogging package, but after seeing
-the multi-app connectivity associated with Disqus, I'm not so sure anymore.
+the multi-app connectivity associated with Disqus, I'm not so sure anymore.  This package also looked very
+plain and vanilla, but I guess I could have changed the theme on it to spruce it up.
 
 Next will be Forum testing here on Orchard.  -- slh
