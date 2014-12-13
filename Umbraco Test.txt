@@ -32,5 +32,18 @@ definitely makes the first cut, and I'll soon delve deeper to investigate the fe
 -- slh
 
 
-12/11/2014 -- Blog Testing
+12/12/2014 -- Blog Testing
+I finished blog testing today on Umbraco.  The two main choices for me were uBlogsy by Anthony Dang and 
+Articulate by Shannon Deminick.  Initially I was leaning towards uBlogsy since Articulate farms it's 
+comments out to Disqus,and I thought I wanted my comments done locally.  But after loading both up in 
+the Umbraco CMS and making a few test posts, I really found Articulate to be the friendlier and more 
+intuitive package.  I also ran into many bugs and issues with uBlogsy (I don't think it's ready for U7 
+yet, tbh), and I also got the feeling that it was a little too much project spread with uCommentsy, 
+uLemsy, etc; just a little too uCutesy for me.
 
+If I decide to go with Umbraco, I definitely will use Articulate as my blogging engine.  The developer is
+an Umbraco employee and his blog package seems to fit seamlessly within the CMS.  I guess my biggest 
+challenge will be to get Articulate to run under my main root site, as I couldn't quite figure that out
+in this initial round, but if I choose Umbraco, I can dig into that when the time comes.
+
+Tomorrow I start blog testing on the Orchard CMS.  -- slh
