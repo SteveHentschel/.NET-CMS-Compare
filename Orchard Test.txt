@@ -29,3 +29,16 @@ how things are laid out.  Just feels more natural to me, and could be the one.  
 checking out Kooboo and Umbraco.
 
 -- slh
+
+
+12/13/2014 -- Blog Testing
+There really is not so much to test for blogging on the Orchard CMS, since the only common package I could 
+find was the one that came packaged with Orchard (called Blogs 1.8.1 in the Modules section).  I made a few 
+blog posts and did some commenting.  All was very easy and intuitive, but the word that comes to mind
+when describing the package overall is 'rudimentary'.  Not many bells nor whistles come with this package
+that I could find.
+
+The commenting is self contained, which is what I thought I wanted in a blogging package, but after seeing
+the multi-app connectivity associated with Disqus, I'm not so sure anymore.
+
+Next will be Forum testing here on Orchard.  -- slh
