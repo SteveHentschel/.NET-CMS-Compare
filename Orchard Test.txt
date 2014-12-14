@@ -43,3 +43,21 @@ the multi-app connectivity associated with Disqus, I'm not so sure anymore.  Thi
 plain and vanilla, but I guess I could have changed the theme on it to spruce it up.
 
 Next will be Forum testing here on Orchard.  -- slh
+
+
+12/13/2014 -- Forum Testing
+I had two target forum packages I wanted to test with the Orchard CMS.  The first used to be called 
+ngm Forums, I assume for the creator, Nicholas Mayne.  This has since turned into a module called 
+Forum 1.0.1 which is directly loaded from the Orchard gallery, nice and easy.  Unfortunately, this forum
+package is very similar to the built-in blog package for Orchard in that it is very basic, not very 
+exciting at all.  Replies/comments are very basic as well, with no built-in avatar support or reputation system that I could 
+find.  I suspect these might come in separate modules, but I did not go that far.
+
+The second forum package I wanted to test was called The MVC Forum (Version 1.5) by a designer called 
+Lee (Leen3o) from Aptitude.  Unfortunately, as far as I could tell, this package cannot be run under 
+Orchard.  It appears to be meant to run as a stand-alone site, or maybe run as a subdomain from your main
+site.  I did download the source and run it from VS as a stand-alone, and man, it does not fail to impress.
+Very nice package with many features and very intuitive to use.  If Umbraco does not have a version of this,
+I think I'll have to find a way to reference this from my main site somehow as a subdomain.
+
+Next, I'll look at nForum/Dialogue on Umbraco.  -- slh
