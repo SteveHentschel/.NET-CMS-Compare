@@ -86,3 +86,12 @@ find.  Articulate seemed to have the most interest and felt very nice, intuitive
 it supposedly is not a full-fledged blogging system (like WordPress).  I also found I liked the connectivity
 of Disqus.  So, Round 1 to Umbraco/Articulate blogging.  Round 2 is the forum testing.
 -- slh
+
+
+** 12/14/2014 **  Forum Test Results
+The Round 2 Forum test winner is .... again Umbraco with Dialogue.  Dialogue was way more powerful and 
+feature-packed than the standard Forum module on Orchard (ngmForum).  Seems Orchard has all the basic
+functionality and lets you add what you want thru extensions, but why reinvent the wheel when Umbraco has
+all the packages with all the bells and whistles already available.  My only issue will be putting Dialogue
+under the same root as my main website, and also figuring out how to merge the two separate logins.
+-- slh

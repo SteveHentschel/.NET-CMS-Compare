@@ -47,3 +47,24 @@ challenge will be to get Articulate to run under my main root site, as I couldn'
 in this initial round, but if I choose Umbraco, I can dig into that when the time comes.
 
 Tomorrow I start blog testing on the Orchard CMS.  -- slh
+
+
+12/14/2014 -- Forum Testing
+It seems nForum by Lee (guards his last name very well) has been the mainstay forum package for Umbraco, 
+but that supposedly only works up to V1.6.  Luckily Lee (Leen3o) has just ported his TheMVCForum module 
+to Umbraco 7 in the form of a pakcage called Dialogue via his UK business (aptitude.co.uk).  Dialogue is 
+easily downloaded and installed via the Umbraco repository in the Developer section.  I had a few bugs / 
+runtime errors initially, but I think it's cuz I didn't follow the instruction on GitHub regarding 
+publishing various areas and setting up a Dialogue admin user.
+
+Once Dialogue was up and running, it definitely exceeded expectations.  So many features and options you 
+would expect in a modern forum/bulletin board, very much better out of the box than the Forums 101 module 
+for Orchard.  My main concern is that it seems to function very much as a stand-alone site (like TheMVCForum)
+and I'm not sure how to incorporate it into my site's main root.  I saw some post that said it might not 
+be possible and would have to be run as a main or subdomain.  I also have no idea how to separate logins
+of the main site and the forum, or join them if need be.  I'll have to figure that out when the time
+comes, but I think the utility of Dialogue will be worth the effort.
+
+-- slh
+
+
