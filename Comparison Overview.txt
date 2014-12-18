@@ -95,3 +95,32 @@ functionality and lets you add what you want thru extensions, but why reinvent t
 all the packages with all the bells and whistles already available.  My only issue will be putting Dialogue
 under the same root as my main website, and also figuring out how to merge the two separate logins.
 -- slh
+
+
+** 12/18/2014 **  Final Decision
+After learning a bit more about Doc Types in Umbraco and seeing how things fit together in the Settings
+area of the Admin panel, I found that moving the Articulate Blog and Dialogue Forum packages under the 
+main root (Home) directory was no problem.  Now just have to learn how to modify the templates so they
+all look the same and have the same header/footer.
+
+After seeing this, I pretty much decided to go with Umbraco for my new (and future likely) website project.
+My next step would have been to evaluate the media and theming options, but they look like they will follow
+the same path as blog and forum, where Orchard has basic built-in functions (very rudimentary), where 
+Umbraco has more lavish options available in package form for download or install via NuGet.
+
+I was also about to evaluate both packages on their simple CRUD capabilities using SQL/LINQ/EF, but at that 
+point, it looks like you have to go into extension mode, and that will require more in-depth study (at 
+least for me), and I don't want to do double duty there, especially when it looks like I will go with 
+Umbraco in the end.  Now I will start my detailed study of Umbraco and it's setting area in conjunction with
+starting the actual project as well.  I've got my domain name reserved and hosting on Arvixe all set up,
+so there are no obstacles to move forward now.
+
+In the end, the decision came down to the amount of attractive packages available for insertion on the two
+CMS platforms evaluated, which in turn is determined by the community acceptance and amount of usage of the
+CMS platform, and it's clear in my mind that Umbraco wins this battle.  My only negative I could find with
+Umbraco is that there are not so many packages developed (or ported) on their newest Version (7.2).  But I 
+guess I should qualify that with a big "yet", and assume that they will come in good time.
+
+So in summary, my final choice for best .NET CMS platform is Umbraco, given my qualifiers of free (mostly),
+small to mid-scale website, MVC support, good community/support, with flexible and extendible framework.
+-- slh
