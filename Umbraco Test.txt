@@ -68,3 +68,28 @@ comes, but I think the utility of Dialogue will be worth the effort.
 -- slh
 
 
+12/22/2014 -- Umbraco Learning
+I spent the past few days running thru some Umbraco videos and tutorials to get the basics down before I 
+start to tackle my project.  Learning about Document Types, Properties, Data Types, Templates, and how they
+all fit together is not so difficult a task, but also one should not expect plug-and-play site development 
+from Umbraco.  I feel like once you grasp the Umbraco methodology, it is the best and most versatile and 
+customizable CMS framework for .NET out there atm (just like I read in most of the CMS comparison articles).
+
+Two resources I found most helpful for getting into Umbraco V7 were:  1) the newer Version 7 videos on 
+Umbraco TV (http://umbraco.tv/videos/umbraco-v7).  Specifically, the Implementor section was most applicable
+to me for my current site design project.  Many vids are free, some require the TV membership (especially
+the more detailed developer series), but it may be worth the $23 for a month worth of study.  2) the Umbraco
+forum Documentation section has an excellent starter tutorial called "Creating a Basic Website using Umbraco
+V7.1" (http://our.umbraco.org/documentation/Using-Umbraco/Creating-Basic-Site).  This is the perfect step
+after some basic videos studies, as it walks you through how to create a nice 3 page Umbraco site from 
+scratch, which seems to address the most common complaint I read about seeing that first, bare naked 
+Umbraco admin page ... "What do I do now ?  How do I start ?"
+
+My next step now is to sit down and really figure out how I want my project site to be laid out, page 
+structures, how many doc types, new and unique data types I'll need, etc., etc.  Setting the blueprint for
+your site takes time and foresight and planning, but once that is all figured out, then use Umbraco to bring
+the site to life in an easy and logical manner (at least that's the plan).
+
+-- slh
+
+
